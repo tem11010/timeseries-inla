@@ -1,0 +1,11 @@
+base
+sp
+Matrix
+INLA
+ggplot2
+nlme
+mgcv
+dplyr
+lattice
+DAAG
+reshape2
