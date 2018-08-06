@@ -18,7 +18,7 @@ This is a tutorial on how to do time series analyses in R using [INLA](http://ww
 
 ## Introduction
 Time series analyses are useful for fitting models to data with temporal dependece, or temporal autocorrelation, where the values close together in time are more similar than values that are far apart in time. 
-For this tutorial I am using the [greatLakes](https://www.rdocumentation.org/packages/DAAG/versions/1.22/topics/greatLakes greatLakes) from the [DAAG](https://www.rdocumentation.org/packages/DAAG/versions/1.22 DAAG) package. 
+For this tutorial I am using the [greatLakes](https://www.rdocumentation.org/packages/DAAG/versions/1.22/topics/greatLakes greatLakes) dataset from the [DAAG](https://www.rdocumentation.org/packages/DAAG/versions/1.22 DAAG) package. 
 It is a dataset of yearly averages of Great Lake (Erie, Michigan/Huron, Ontario and St Clair) heights from 1918 - 2009. The heights are stored as a multivariate time series. 
 
 I won't be spending any time doing any model selection in this tutorial,
