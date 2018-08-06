@@ -2,11 +2,12 @@
 title: "Time Series in R using INLA"
 author: "Timothy E. Moore"
 graphics: yes
-output:
+output: 
   prettydoc::html_pretty:
     theme: cayman
     highlight: github
     keep_md: yes
+
 editor_options:
   chunk_output_type: console
 ---
