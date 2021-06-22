@@ -302,7 +302,7 @@ c(i2$dic$dic, i3$dic$dic)
 ```
 
 
-We can see that the model fitting the trend to each lake (i2) has a better (lower) DIC score. 
+We can see that the model fitting the same trend to each lake (i2) has a better (lower) DIC score. 
 
 
 That's if for this tutorial on time series analysis. 
